@@ -2,6 +2,13 @@
 <img src="https://github.com/AeX03/iptv/blob/main/picture/maxresdefault%20(1)(1).jpg" alt="Image" height="420" width="600" />
 </p align="center">
 
+[![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/iptv)
+[![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/AeX03/iptv)
+[![Discord](https://img.shields.io/discord/979349329909264414?label=Discord&logo=Discord)](http://discord.gg/xpaxKBEx9t)
+<br>
+[![eLys](https://img.shields.io/badge/Site-eLys-pink.svg)](https://eLysiane.eu/)
+[![Tornado](https://img.shields.io/badge/NOVA-Tornado%20Cash-brightgreen.svg)](https://img.shields.io/badge/-available%20/09/2022-lightgrey)
+
 # iptv
 thanks to <b>IPTV-ORG</b> !
 <br>
